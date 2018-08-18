@@ -1,0 +1,9 @@
+{
+    "name": "cacedebu",
+    "version": "1.0.0",
+    "description": "CACEDEBU Official Website",
+    "main": "index.js",
+    "author": "Muco Rolle Tresor",
+    "license": "MIT",
+    "private": true
+}
